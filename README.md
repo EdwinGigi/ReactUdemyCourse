@@ -1,4 +1,4 @@
-# ReactUdemyCourse
+# React Udemy Course
 Learning React, Hooks, Redux, React Router, Next.js and best Practices
 
 React vs JavaScript
